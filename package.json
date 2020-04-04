@@ -1,0 +1,22 @@
+{
+  "name": "js_loopback_starter",
+  "version": "1.0.0",
+  "description": "js api gateway ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js_loopback_starter"
+  },
+  "keywords": [
+    "PH3AR"
+  ],
+  "author": "BigNerdLoLz",
+  "license": "ISC",
+  "dependencies": {
+    "loopback": "^3.27.0",
+    "loopback-cli": "^5.1.0"
+  }
+}
